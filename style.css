@@ -1,21 +1,22 @@
 header{background-color:#257597;
 }
+ 
+.rodape{
+ background-color: #257597;
+  text-align:  center;
+ }
+ 
+  .rodape-imagem{
+  width: 20%;
+  }
+
+.rodape-texto{
+    color: #102b36;
+    font-size: 32px;
+    padding: 24px;
+}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
